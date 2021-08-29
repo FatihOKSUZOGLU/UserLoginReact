@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import { login } from '../api/apicalls';
 import Input from '../components/Input';
 import { withTranslation } from 'react-i18next';
-
+//Login class
 class LoginPage extends Component{
     
     state = {
