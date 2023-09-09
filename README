@@ -5,10 +5,8 @@ This project is an online social web application that is being carried out by me
 This project, which is carried out using Spring boot and React, is an application where users can register and share in-app, both public and private shares can be seen.
 
 DEVELOPMENT ENVIRONMENT:
-Java 8
-Node JS
+Java
 Postman 
-Google Chrome (with React Developer Tools , Redux Devtools)
 
 
 USED TECHNOLOGIES IN FRONT END: 
